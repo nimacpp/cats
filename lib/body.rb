@@ -1,4 +1,4 @@
-require 'colorize'
+require 'colortheme'
 require 'httparty'
 require 'json'
 $banner = """
