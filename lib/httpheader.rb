@@ -1,5 +1,5 @@
  require 'httparty'
-require 'colorize'
+require 'colortheme'
 $banner = """
 \t ▄▄·  ▄▄▄· ▄▄▄▄▄.▄▄ · 
 \t▐█ ▌▪▐█ ▀█ •██  ▐█ ▀. 
