@@ -24,6 +24,7 @@ user~$
 - Kali Linux 2021
 - Windows 11
 - Ubuntu 22.04
+- MacOs
 - ## Install
 ```bash
 git clone https://github.com/nimacpp/cats.git
