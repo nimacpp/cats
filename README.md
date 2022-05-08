@@ -8,7 +8,7 @@ tool to use webhacking with ruby
         ▐█ ▌▪▐█ ▀█ •██  ▐█ ▀. 
         ██ ▄▄▄█▀▀█  ▐█.▪▄▀▀▀█▄
         ▐███▌▐█ ▪▐▌ ▐█▌·▐█▄▪▐█
-        ·▀▀▀  ▀  ▀  ▀▀▀  ▀▀▀▀V1.0
+        ·▀▀▀  ▀  ▀  ▀▀▀  ▀▀▀▀V2.0
 
   [#] Choose one of the options below 
 
@@ -21,16 +21,15 @@ tool to use webhacking with ruby
 user~$ 
 </pre>
 ## Operating Systems Tested
-- Kali Linux 2020.1
-- Windows 10
-- Ubuntu 20.04
+- Kali Linux 2021
+- Windows 11
+- Ubuntu 22.04
 - ## Install
 ```bash
 git clone https://github.com/nimacpp/cats.git
 cd cats
-sudo gem install httparty & colorize
+sudo bundle install
 ruby cats.rb 
 ```
 ### Contact us
-- Channel Telegram : https://t.me/niox_team
-- Channel instagram : https://nistagram.com/team_niox
+- email : nima.cpp@outlook.com
