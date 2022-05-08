@@ -2,8 +2,11 @@
 tool to use webhacking with ruby 
 
 ## PreView
+
+<pre>
 <img src="img/cats.png" >
 </pre>
+
 ## Operating Systems Tested
 - Kali Linux 2021
 - Windows 11
