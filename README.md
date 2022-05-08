@@ -2,23 +2,7 @@
 tool to use webhacking with ruby 
 
 ## PreView
-<pre>
-
-         ▄▄·  ▄▄▄· ▄▄▄▄▄.▄▄ · 
-        ▐█ ▌▪▐█ ▀█ •██  ▐█ ▀. 
-        ██ ▄▄▄█▀▀█  ▐█.▪▄▀▀▀█▄
-        ▐███▌▐█ ▪▐▌ ▐█▌·▐█▄▪▐█
-        ·▀▀▀  ▀  ▀  ▀▀▀  ▀▀▀▀V2.0
-
-  [#] Choose one of the options below 
-
-  [1] Information Gathering 
-
-  [2] Developer :) 
-
-  [3] Exit ... 
-
-user~$ 
+<img src="img/cats.png" >
 </pre>
 ## Operating Systems Tested
 - Kali Linux 2021
